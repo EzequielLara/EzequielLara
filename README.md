@@ -2,7 +2,7 @@
 
 ---
 
-**
+  **
 **NODE.JS** |
 **REACT** |
 **EXPRESS** |
@@ -14,4 +14,4 @@
 **CREATE-REACT-APP** |
 **VITE** |
 **NEXT.JS**
-**
+   **
