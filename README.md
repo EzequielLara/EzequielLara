@@ -9,7 +9,6 @@
 **TYPESCRIPT** |
 **GIT** |
 **BOOTSTRAP** |
-**REDUX** |
 **CREATE-REACT-APP** |
 **VITE** |
 **NEXT.JS**
