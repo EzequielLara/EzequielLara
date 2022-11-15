@@ -3,6 +3,7 @@
 ---
 **NODE.JS** |
 **REACT** |
+**ANGULAR** |
 **EXPRESS** |
 **MONGO DB** |
 **TYPESCRIPT** |
@@ -12,4 +13,4 @@
 **CREATE-REACT-APP** |
 **VITE** |
 **NEXT.JS**
-💻🖨🖱📀
+
